@@ -1,0 +1,253 @@
+{
+    "rounds": {
+        "Round_1": [
+            {
+                "team_a": {
+                    "name": "Duke",
+                    "seed": 1,
+                    "win_probability": 0.93584,
+                    "simulated_win_pct": 0.9355
+                },
+                "team_b": {
+                    "name": "St John's",
+                    "seed": 5,
+                    "win_probability": 0.06416,
+                    "simulated_win_pct": 0.0645
+                },
+                "predicted_winner": "Duke",
+                "round": 1
+            },
+            {
+                "team_a": {
+                    "name": "Michigan St",
+                    "seed": 3,
+                    "win_probability": 0.43656,
+                    "simulated_win_pct": 0.4373
+                },
+                "team_b": {
+                    "name": "Connecticut",
+                    "seed": 2,
+                    "win_probability": 0.56344,
+                    "simulated_win_pct": 0.5627
+                },
+                "predicted_winner": "Connecticut",
+                "round": 1
+            },
+            {
+                "team_a": {
+                    "name": "Iowa",
+                    "seed": 9,
+                    "win_probability": 0.38417,
+                    "simulated_win_pct": 0.3874
+                },
+                "team_b": {
+                    "name": "Nebraska",
+                    "seed": 4,
+                    "win_probability": 0.61583,
+                    "simulated_win_pct": 0.6126
+                },
+                "predicted_winner": "Nebraska",
+                "round": 1
+            },
+            {
+                "team_a": {
+                    "name": "Illinois",
+                    "seed": 3,
+                    "win_probability": 0.29288,
+                    "simulated_win_pct": 0.2936
+                },
+                "team_b": {
+                    "name": "Houston",
+                    "seed": 2,
+                    "win_probability": 0.70712,
+                    "simulated_win_pct": 0.7064
+                },
+                "predicted_winner": "Houston",
+                "round": 1
+            },
+            {
+                "team_a": {
+                    "name": "Arizona",
+                    "seed": 1,
+                    "win_probability": 0.90384,
+                    "simulated_win_pct": 0.9069
+                },
+                "team_b": {
+                    "name": "Arkansas",
+                    "seed": 4,
+                    "win_probability": 0.09616,
+                    "simulated_win_pct": 0.0931
+                },
+                "predicted_winner": "Arizona",
+                "round": 1
+            },
+            {
+                "team_a": {
+                    "name": "Texas",
+                    "seed": 11,
+                    "win_probability": 0.17992,
+                    "simulated_win_pct": 0.1809
+                },
+                "team_b": {
+                    "name": "Purdue",
+                    "seed": 2,
+                    "win_probability": 0.82008,
+                    "simulated_win_pct": 0.8191
+                },
+                "predicted_winner": "Purdue",
+                "round": 1
+            },
+            {
+                "team_a": {
+                    "name": "Michigan",
+                    "seed": 1,
+                    "win_probability": 0.78872,
+                    "simulated_win_pct": 0.794
+                },
+                "team_b": {
+                    "name": "Alabama",
+                    "seed": 4,
+                    "win_probability": 0.21128,
+                    "simulated_win_pct": 0.206
+                },
+                "predicted_winner": "Michigan",
+                "round": 1
+            },
+            {
+                "team_a": {
+                    "name": "Tennessee",
+                    "seed": 6,
+                    "win_probability": 0.90848,
+                    "simulated_win_pct": 0.9102
+                },
+                "team_b": {
+                    "name": "Iowa St",
+                    "seed": 2,
+                    "win_probability": 0.09152,
+                    "simulated_win_pct": 0.0898
+                },
+                "predicted_winner": "Tennessee",
+                "round": 1
+            }
+        ],
+        "Round_2": [
+            {
+                "team_a": {
+                    "name": "Duke",
+                    "seed": 1,
+                    "win_probability": 0.91721,
+                    "simulated_win_pct": 0.922
+                },
+                "team_b": {
+                    "name": "Connecticut",
+                    "seed": 2,
+                    "win_probability": 0.08279,
+                    "simulated_win_pct": 0.078
+                },
+                "predicted_winner": "Duke",
+                "round": 2
+            },
+            {
+                "team_a": {
+                    "name": "Nebraska",
+                    "seed": 4,
+                    "win_probability": 0.07208,
+                    "simulated_win_pct": 0.0722
+                },
+                "team_b": {
+                    "name": "Houston",
+                    "seed": 2,
+                    "win_probability": 0.92792,
+                    "simulated_win_pct": 0.9278
+                },
+                "predicted_winner": "Houston",
+                "round": 2
+            },
+            {
+                "team_a": {
+                    "name": "Arizona",
+                    "seed": 1,
+                    "win_probability": 0.89362,
+                    "simulated_win_pct": 0.8981
+                },
+                "team_b": {
+                    "name": "Purdue",
+                    "seed": 2,
+                    "win_probability": 0.10638,
+                    "simulated_win_pct": 0.1019
+                },
+                "predicted_winner": "Arizona",
+                "round": 2
+            },
+            {
+                "team_a": {
+                    "name": "Michigan",
+                    "seed": 1,
+                    "win_probability": 0.90163,
+                    "simulated_win_pct": 0.9073
+                },
+                "team_b": {
+                    "name": "Tennessee",
+                    "seed": 6,
+                    "win_probability": 0.09837,
+                    "simulated_win_pct": 0.0927
+                },
+                "predicted_winner": "Michigan",
+                "round": 2
+            }
+        ],
+        "Round_3": [
+            {
+                "team_a": {
+                    "name": "Duke",
+                    "seed": 1,
+                    "win_probability": 0.6091,
+                    "simulated_win_pct": 0.6062
+                },
+                "team_b": {
+                    "name": "Houston",
+                    "seed": 2,
+                    "win_probability": 0.3909,
+                    "simulated_win_pct": 0.3938
+                },
+                "predicted_winner": "Duke",
+                "round": 3
+            },
+            {
+                "team_a": {
+                    "name": "Arizona",
+                    "seed": 1,
+                    "win_probability": 0.47607,
+                    "simulated_win_pct": 0.4783
+                },
+                "team_b": {
+                    "name": "Michigan",
+                    "seed": 1,
+                    "win_probability": 0.52393,
+                    "simulated_win_pct": 0.5217
+                },
+                "predicted_winner": "Michigan",
+                "round": 3
+            }
+        ],
+        "Round_4": [
+            {
+                "team_a": {
+                    "name": "Duke",
+                    "seed": 1,
+                    "win_probability": 0.72979,
+                    "simulated_win_pct": 0.7393
+                },
+                "team_b": {
+                    "name": "Michigan",
+                    "seed": 1,
+                    "win_probability": 0.27021,
+                    "simulated_win_pct": 0.2607
+                },
+                "predicted_winner": "Duke",
+                "round": 4
+            }
+        ]
+    },
+    "champion": "Duke"
+}
